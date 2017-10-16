@@ -6,6 +6,8 @@ This is a tensorflow implementation of asynchronous deep Q learning algorithm
 
 ![Breakout_v0](/img/asynchronous_breakout_v0.gif)
 
+Full paper here: https://arxiv.org/pdf/1602.01783v1.pdf
+
 
 ## Dependencies
 

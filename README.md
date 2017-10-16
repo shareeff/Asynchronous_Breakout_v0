@@ -35,4 +35,3 @@ The Original implementation of this [project](https://github.com/Zeta36/Asynchro
 functionalities and also modify it for openAI gym environment. The original project was gamming environment (pong & tetris) written in pygame library. 
 
 
-# Asynchronous_Breakout_v0

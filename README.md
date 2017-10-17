@@ -1,6 +1,6 @@
 # Asynchronous_Breakout_v0
 
-This is a tensorflow implementation of asynchronous deep Q learning algorithm 
+This is a tensorflow implementation of asynchronous deep reinforcement learning algorithm 
 
 ## Demo
 
